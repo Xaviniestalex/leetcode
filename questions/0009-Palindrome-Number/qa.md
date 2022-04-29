@@ -39,3 +39,5 @@ Constraints:
 
 Follow up: Could you solve it without converting the integer to a string?
 ```
+
+## [Official Solution Article](https://leetcode.com/problems/palindrome-number/solution/)
