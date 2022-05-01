@@ -2,7 +2,7 @@
 
 ## Info
 
-- Date: 2022/04/30
+- Date: 2022/05/01
 - tag: `Math`
 
 ## Question Description
