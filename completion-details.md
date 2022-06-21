@@ -9,3 +9,4 @@
 |   5 | 2022/06/19 |         1480 | Running Sum of 1d Array |        Easy         | [1480. Running Sum of 1d Array](/questions/1480-Running-Sum-of-1d-Array/qa.md) | [JS](/questions/1480-Running-Sum-of-1d-Array/myattempt/20220619.js) |
 |   6 | 2022/06/19 |          724 | Find Pivot Index        |        Easy         | [724. Find Pivot Index](/questions/0724-Find-Pivot-Index/qa.md)                |    [JS](/questions/0724-Find-Pivot-Index/myattempt/20220619.js)     |
 |   7 | 2022/06/20 |          205 | Isomorphic Strings      |        Easy         | [205. Isomorphic Strings](/questions/0205-Isomorphic-Strings/qa.md)            |   [JS](/questions/0205-Isomorphic-Strings/myattempt/20220620.js)    |
+|   8 | 2022/06/20 |          392 | Is Subsequence          |        Easy         | [392. Is Subsequence](/questions/0392-Is-Subsequence/qa.md)                    |     [JS](/questions/0392-Is-Subsequence/myattempt/20220620.js)      |
