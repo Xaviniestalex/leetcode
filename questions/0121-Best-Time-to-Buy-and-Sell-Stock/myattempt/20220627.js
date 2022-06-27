@@ -22,9 +22,9 @@ var maxProfit = function (prices) {
  */
 
 // tests
-const test1 = maxProfit(); // 
-const test2 = maxProfit(); // 
-const test3 = maxProfit(); // 
+const test1 = maxProfit([7, 1, 5, 3, 6, 4]); // 5
+const test2 = maxProfit([7, 6, 4, 3, 1]); // 0
+const test3 = maxProfit([7, 6, 4, 3, 1, 7, 1, 5, 3, 6, 4]); // 6
 
 const printOutput = (test) => console.log(test)
 printOutput(test1);
